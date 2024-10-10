@@ -1,4 +1,4 @@
-# Phishing Site Detector
+# Phishing Site Detector App
 
 ## Description
 
